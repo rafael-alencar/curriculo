@@ -1,6 +1,7 @@
 Rafael Alencar
-Analista Desenvolvedor
 ============
+
+Analista Desenvolvedor
 
 Atuando há mais de 8 anos na área de TI com foco em análise e desenvolvimento de sistemas para web e adepto da metodologia de orientação a objetos e design patterns, possuo experiência nas boas práticas mais adotadas no desenvolvimento de softwares para a web com domínio na arquitetura MVC e sistemas orientados à serviços.
 
