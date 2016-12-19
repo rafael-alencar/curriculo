@@ -1,11 +1,18 @@
 # Rafael Alencar
 Analista Desenvolvedor
 
-Atuando há mais de 8 anos na área de TI com foco em análise e desenvolvimento de sistemas para web e adepto da metodologia de orientação a objetos e design patterns, possuo experiência nas boas práticas mais adotadas no desenvolvimento de softwares para a web com domínio na arquitetura MVC e sistemas orientados à serviços.
+Experiente analista desenvolvedor Full Stack especialista em PHP, adepto da metodologia de orientação a objetos e design patterns com domínio na arquitetura MVC e sistemas orientados a serviços.
 
-Com visão sistêmica, realizar o levantamento e análise de requisitos de software e propor soluções técnicas que atendam às necessidades dos usuários, elaborar, desenvolver e executar testes para garantir a qualidade dos produtos e construir artefatos de documentação técnica para projetos de software também são habilidades adquiridas ao longo da experiência como desenvolvedor.
+Algumas tecnologias e metodoligias utilizadas ao longo desses anos:
 
-Atualmente empenhado no estudo de tecnologias como AngularJS, Node.js e desenvolvimento de aplicações híbridas.
+* PHP, Ruby, Java, ASP, VBScript, JavaScript, jQuery, HTML, CSS, Bootstrap
+* CakePHP, Zend Framework, Yii Framework, Smarty Template Engine, Symfony, Ruby on Rails, CodeIgniter, PHPUnit, VRaptor, Hibernate
+* Orientação a objetos, design patterns, arquitetura MVC, AJAX, testes unitários, RESTful, SOAP, JSON, XML
+* MySQL, PostgreSQL, Firebird, Microsoft SQL Server, Oracle
+* Composer, Git, Subversion (SVN), Apache HTTP, Tomcat, Microsoft IIS
+* Scrum, JIRA, Kanban
+
+Atualmente empenhado na especialização de tecnologias como AngularJS, Node.js, Ruby on Rails e desenvolvimento de aplicações híbridas.
 
 # Experiência Profissional
 ## VTI Soluções em Tecnologia da Informação
@@ -90,3 +97,7 @@ A integração entre as ferramentas ocorreu quando, através da implementação 
 Um sistema web para monitoramento de dispositivos móveis utilizando GPS.
 
 Desenvolvido com CakePHP, PostgreSQL, JavaScript e jQuery, esse sistema utiliza a API do Google Maps para desenhar no mapa as rotas dos dispositivos em tempo real através do sinal GPS, permitindo também criar zonas de restrição e emitir alertas quando essas zonas forem violadas.
+
+# Especialidades e Competências
+
+
