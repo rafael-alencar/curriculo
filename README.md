@@ -97,7 +97,3 @@ A integração entre as ferramentas ocorreu quando, através da implementação 
 Um sistema web para monitoramento de dispositivos móveis utilizando GPS.
 
 Desenvolvido com CakePHP, PostgreSQL, JavaScript e jQuery, esse sistema utiliza a API do Google Maps para desenhar no mapa as rotas dos dispositivos em tempo real através do sinal GPS, permitindo também criar zonas de restrição e emitir alertas quando essas zonas forem violadas.
-
-# Especialidades e Competências
-
-
