@@ -1,13 +1,15 @@
 # Rafael Alencar
 Analista Desenvolvedor
 
-Experiente analista desenvolvedor Full Stack especialista em PHP, adepto da metodologia de orientação a objetos e design patterns com domínio na arquitetura MVC e sistemas orientados a serviços.
+Experiente analista desenvolvedor Full Stack especialista em PHP, adepto da metodologia de desenvolvimento orientado a objetos e design patterns com domínio na arquitetura MVC e sistemas orientados a serviços.
 
-Algumas tecnologias e metodoligias utilizadas ao longo desses anos:
+Algumas tecnologias e metodologias utilizadas ao longo desses anos:
 
-* PHP, Ruby, Java, ASP, VBScript, JavaScript, jQuery, HTML, CSS, Bootstrap
+* PHP, Ruby, Java, ASP, VBScript
+* JavaScript, jQuery, HTML, CSS, Bootstrap
 * CakePHP, Zend Framework, Yii Framework, Smarty Template Engine, Symfony, Ruby on Rails, CodeIgniter, PHPUnit, VRaptor, Hibernate
-* Orientação a objetos, design patterns, arquitetura MVC, AJAX, testes unitários, RESTful, SOAP, JSON, XML
+* Orientação a objetos, design patterns, arquitetura MVC, testes unitários
+* AJAX, RESTful, SOAP, JSON, XML
 * MySQL, PostgreSQL, Firebird, Microsoft SQL Server, Oracle
 * Composer, Git, Subversion (SVN), Apache HTTP, Tomcat, Microsoft IIS
 * Scrum, JIRA, Kanban
