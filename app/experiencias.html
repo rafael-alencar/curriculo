@@ -1,0 +1,14 @@
+<div class="row experiencias">
+  <h3>Experiência Profissional</h3><hr />
+
+  <div class="experiencia" ng-repeat="experiencia in $ctrl.experiencias">
+    <div class="row">
+      <div class="col-xs-4 col-lg-4">
+        <h4>{{ experiencia.empresa }} <small>{{ experiencia.cargo }}</small></h4>
+        <span class="label label-default">{{ experiencia.periodo }}</span>
+      </div>
+      <div class="col-xs-4 col-lg-8" ng-bind-html="experiencia.descricao"></div>
+    </div>
+    <hr />
+  </div>
+</div>
